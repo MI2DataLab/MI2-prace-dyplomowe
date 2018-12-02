@@ -1,5 +1,9 @@
 # Plakaty
 
+* 12.2018, IV Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana, Lublin </br>
+[Explainable Survival Analysis with R and survxai](2018_12_survxai.pdf), </br>
+Alicja Gosiewska, Aleksandra Grudziąż, Przemysław Biecek
+
 * 06.2018, Data Science Summer School, Paris </br>
  [DALEX: How would you explain this prediction](2018_06_DALEX.pdf), </br>
 Agnieszka Sitko, Mateusz Staniak, Przemysław Biecek
