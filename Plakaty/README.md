@@ -1,6 +1,10 @@
 # Plakaty
 
-* 12.2018, IV Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana, Lublin </br>
+* 12.2018, PL in ML Polish View on Machine Learning, Warszawa </br>
+[auditor: visual validation of predictive models](2018_12_auditor.pdf), </br>
+Alicja Gosiewska, Agnieszka Ciepielewska, Przemysław Biecek
+
+* 11.2018, IV Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana, Lublin </br>
 [Explainable Survival Analysis with R and survxai](2018_12_survxai.pdf), </br>
 Alicja Gosiewska, Aleksandra Grudziąż, Przemysław Biecek
 
