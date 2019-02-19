@@ -1,5 +1,9 @@
 # Plakaty
 
+* XII 2018, PL in ML: Polish View on Machine Learning, Warszawa </br>
+[Local Explanations of Machine Learning models](2018_12_Local_Explanations.pdf), </br>
+Mateusz Staniak, Michał Kuźba, Przemysław Biecek
+
 * 12.2018, PL in ML Polish View on Machine Learning, Warszawa </br>
 [auditor: visual validation of predictive models](2018_12_auditor.pdf), </br>
 Alicja Gosiewska, Agnieszka Ciepielewska, Przemysław Biecek
