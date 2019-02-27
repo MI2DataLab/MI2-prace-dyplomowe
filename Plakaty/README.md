@@ -1,4 +1,7 @@
 # Plakaty
+* 02.2019, Theoretical Foundations of Machine Learning, Kraków </br>
+[Modelling response to trypophobia trigger using intermediate layers of ImageNet networks](2019_02_modelling_trypophobia.pdf), </br>
+Piotr Woźnicki, Michał Kuźba, Piotr Migdał
 
 * 12.2018, PL in ML Polish View on Machine Learning, Warszawa </br>
 [auditor: visual validation of predictive models](2018_12_auditor.pdf), </br>
