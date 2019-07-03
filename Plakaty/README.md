@@ -1,5 +1,9 @@
 # Plakaty
 
+* VII 2019, ICIAM: International Congress on Industrial and Applied Mathematics, Valencia, Spain </br>
+[SAFE ML: Surrogate Assisted Feature Extraction for Automated Model Training](2019_07_SAFE.pdf), </br>
+Alicja Gosiewska,Przemysław Biecek
+
 * XII 2018, PL in ML: Polish View on Machine Learning, Warszawa </br>
 [Local Explanations of Machine Learning models](2018_12_Local_Explanations.pdf), </br>
 Mateusz Staniak, Michał Kuźba, Przemysław Biecek
