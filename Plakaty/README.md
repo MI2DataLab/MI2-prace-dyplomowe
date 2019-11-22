@@ -1,4 +1,7 @@
 # Plakaty
+* 02.2019, Theoretical Foundations of Machine Learning, Kraków </br>
+[Modelling response to trypophobia trigger using intermediate layers of ImageNet networks](2019_02_modelling_trypophobia.pdf), </br>
+Piotr Woźnicki, Michał Kuźba, Piotr Migdał
 
 * VII 2019, ICIAM: International Congress on Industrial and Applied Mathematics, Valencia, Spain </br>
 [SAFE ML: Surrogate Assisted Feature Extraction for Automated Model Training](2019_07_SAFE.pdf), </br>
