@@ -1,4 +1,30 @@
 # Plakaty
+
+
+* XI 2019, ML in PL </br>
+[vivo: local variable importance via oscillations](2019_11_Anna_Kozak_vivo_MLinPL.pdf), </br>
+Anna Kozak
+
+* XI 2019, ML in PL </br>
+[modelStudio: Interactive Studio with Explanations for ML Predictive Models](2019_11_Hubert_Baniecki_modelStudio_MLinPL.pdf), </br>
+Hubert Baniecki
+
+* XI 2019, ML in PL </br>
+[ELO: interpretable score of model predictive power](2019_11_Katarzyna_Woznica_Elo_MLinPL.pdf), </br>
+Katarzyna Woźnica
+
+* XI 2019, ML in PL </br>
+[Conversational explanations](2019_11_Michal_Kuzba_XAIbot_MLinPL.pdf), </br>
+Michał Kuźba
+
+* XI 2019, ML in PL </br>
+[Compare predictive models with funnel plot](2019_11_Szymon_Maksymiuk_DALEXtra_MLinPL.pdf), </br>
+Szymon Maksymiuk
+
+* XI 2019, ML in PL </br>
+[Weles, The Model Lake](2019_11_Wojciech_Kretowicz_Weles_MLinPL.pdf), </br>
+Wojciech Kretowicz
+
 * 02.2019, Theoretical Foundations of Machine Learning, Kraków </br>
 [Modelling response to trypophobia trigger using intermediate layers of ImageNet networks](2019_02_modelling_trypophobia.pdf), </br>
 Piotr Woźnicki, Michał Kuźba, Piotr Migdał
