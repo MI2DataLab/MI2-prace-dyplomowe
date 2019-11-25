@@ -1,5 +1,8 @@
 # Plakaty
 
+* XI 2019, CoNLL 2019 </br>
+[Named Entity Recognition - Is there a glass ceiling?](2019_11_Tomasz_Stanislawek_NER_CoNLL.pdf), </br>
+Anna Kozak
 
 * XI 2019, ML in PL </br>
 [vivo: local variable importance via oscillations](2019_11_Anna_Kozak_vivo_MLinPL.pdf), </br>
