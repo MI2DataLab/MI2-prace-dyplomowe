@@ -1,9 +1,16 @@
 # Plakaty
 
+* XI 2021, MLinPL 2021 </br>
+[metaMIMIC: analysis of hyperparameter transferability for tabular data using MIMIC-IV database](2021_11_Katarzyna_Woznica_metaMIMIC_MLinPL.pdf), </br>
+Katarzyna Woźnica
+
+* XI 2021, MLinPL 2021 </br>
+[Guide through jungle of models! forester: An R package to automatically select between tree-based models](2021_11_Anna_Kozak_forester_MLinPL.pdf), </br>
+Anna Kozak
+
 * XII 2020, MLinPL 2020 </br>
 [Hey, ML engineer! Is your model fair?](2020_12_Jakub_Wisniewski_Fairness_MLinPL.pdf), </br>
 Jakub Wiśniewski
-
 
 * XI 2019, CoNLL 2019 </br>
 [Named Entity Recognition - Is there a glass ceiling?](2019_11_Tomasz_Stanislawek_NER_CoNLL.pdf), </br>
