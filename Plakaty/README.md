@@ -8,7 +8,7 @@ Anna Kozak
 [survex: model-agnostic explainability for survival analysis](2022_11_Mikolaj_Spytek_MLinPL.pdf), </br>
 Mikołaj Spytek
 
-** IX 2022, COSEAL 2022 Workshop </br>
+* IX 2022, COSEAL 2022 Workshop </br>
 [forester: automated partner for planting transparent tree-based models](2022_09_Anna_Kozak_forester_COSEAL.pdf), </br>
 Anna Kozak
 
