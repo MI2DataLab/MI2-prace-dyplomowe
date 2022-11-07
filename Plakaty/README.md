@@ -1,5 +1,21 @@
 # Plakaty
 
+* XI 2022, MLinPL 2022 </br>
+[forester: growing transparent tree-based models for everyone](2022_11_Anna_Kozak_forester_MLinPL.pdf), </br>
+Anna Kozak
+
+* XI 2022, MLinPL 2022 </br>
+[survex: model-agnostic explainability for survival analysis](2022_11_Mikolaj_Spytek_MLinPL.pdf), </br>
+Mikołaj Spytek
+
+** IX 2022, COSEAL 2022 Workshop </br>
+[forester: automated partner for planting transparent tree-based models](2022_09_Anna_Kozak_forester_COSEAL.pdf), </br>
+Anna Kozak
+
+* IX 2022, COSEAL 2022 Workshop </br>
+[Consolidated learning – new approach to domain-specific strategy of hyperparameter optimization](2021_11_Katarzyna_Woznica_consolidated_learning_COSEAL.pdf), </br>
+Katarzyna Woźnica
+
 * XI 2021, MLinPL 2021 </br>
 [metaMIMIC: analysis of hyperparameter transferability for tabular data using MIMIC-IV database](2021_11_Katarzyna_Woznica_metaMIMIC_MLinPL.pdf), </br>
 Katarzyna Woźnica
