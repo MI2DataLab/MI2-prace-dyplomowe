@@ -1,5 +1,9 @@
 # Plakaty
 
+* II 2022, BSc Thesis Defense </br>
+[Methods for extraction of interactions from predictive models](2023_02_Mateusz_Krzyzinski_interactions_BSc_thesis.pdf), </br>
+Mateusz Krzyziński, Paweł Fijałkowski, Artur Żółkowski
+
 * XI 2022, MLinPL 2022 </br>
 [forester: growing transparent tree-based models for everyone](2022_11_Anna_Kozak_forester_MLinPL.pdf), </br>
 Anna Kozak
