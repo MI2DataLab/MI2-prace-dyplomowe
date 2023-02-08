@@ -1,6 +1,6 @@
 # Plakaty
 
-* II 2022, BSc Thesis Defense </br>
+* II 2023, BSc Thesis Defense </br>
 [Methods for extraction of interactions from predictive models](2023_02_Mateusz_Krzyzinski_interactions_BSc_thesis.pdf), </br>
 Mateusz Krzyziński, Paweł Fijałkowski, Artur Żółkowski
 
