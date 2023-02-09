@@ -1,5 +1,10 @@
 # Plakaty
 
+
+* II 2023, BSc Thesis Defense </br>
+[Impact of data balancing on model behaviour with Explainable Artificial Intelligence tools in imbalanced classification problems](2023_02_Adrian_Stańdo_Bsc.pdf), </br>
+Adrian Stańdo
+
 * II 2023, BSc Thesis Defense </br>
 [Methods for extraction of interactions from predictive models](2023_02_Mateusz_Krzyzinski_interactions_BSc_thesis.pdf), </br>
 Mateusz Krzyziński, Paweł Fijałkowski, Artur Żółkowski
